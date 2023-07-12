@@ -1,1 +1,6 @@
 1. ----- 기술 소개 파일 -----
+
+- React
+- NodeJs
+- JavaScript
+- TypeScript
